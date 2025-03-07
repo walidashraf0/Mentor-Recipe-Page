@@ -9,7 +9,8 @@
 
 body {
     background-color: hsl(30, 54%, 90%);
-    padding: 20px 40px;
+    padding: 20px 60px;
+    height: 100%;
 }
 
 .h2 {
@@ -25,6 +26,7 @@ li::marker {
 }
 
 .container {
+    margin: auto;
     width: 40%;
     padding: 20px 40px;
     background-color: hsl(0, 0%, 100%);
